@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+#DA Copyright (C). All services registered
+
 # This bash script which removes commentary from other bash scripts
 
 
