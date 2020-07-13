@@ -1,0 +1,7 @@
+<iostream>
+<windows.h>
+<string>
+<algorithm>
+<math.h>
+<cstdlib>
+<cstdint>
